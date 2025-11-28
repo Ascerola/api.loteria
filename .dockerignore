@@ -1,0 +1,12 @@
+.git
+__pycache__
+.venv
+*.pyc
+*.pyo
+*.pyd
+build
+dist
+wheels
+*.egg-info
+Dockerfile
+docker-compose.yml
